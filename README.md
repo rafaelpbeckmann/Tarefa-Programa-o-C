@@ -19,18 +19,3 @@ Compara a divergência entre dois sensores através dos indicadores C e D.
 * **Valor para teste:** Sensor A = `10` | Sensor B = `8`
 * **Resultado esperado:** Indicador C: `4.00` | Indicador D: `36.00`
 
-## 🚀 Como executar os programas
-No terminal, utilize os seguintes comandos para compilar e rodar:
-
-```bash
-# Para a Questão 1
-gcc questão1.c -o programa1 -lm
-./programa1
-
-# Para a Questão 2
-gcc questão2.c -o programa2 -lm
-./programa2
-
-# Para a Questão 3
-gcc questão3.c -o programa3 -lm
-./programa3
